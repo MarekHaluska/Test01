@@ -1,0 +1,3 @@
+    Bezpečnostní odborníci varují: zabezpečení bezdrátového připojení wi-fi pomocí WPA2 nelze považovat za bezpečné. 
+    Výzkumníci upozorňují, že zranitelností přezdívanou KRACK trpí prakticky všechny bezdrátové sítě současnosti. 
+    Problém se týká počítačů, mobilních telefonů, routerů, chytrých televizí a dalších zařízení.
